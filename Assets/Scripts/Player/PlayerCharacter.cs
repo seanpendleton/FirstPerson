@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// Test for commit change
+
 public class PlayerCharacter : MonoBehaviour {
     private int _health;
 
